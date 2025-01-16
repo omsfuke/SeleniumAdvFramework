@@ -1,4 +1,4 @@
-package org.example.tests.vwoLogin;
+package org.example.tests.vwoLogin.POM_TestCase;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
